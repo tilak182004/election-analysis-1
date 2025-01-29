@@ -42,12 +42,12 @@ This project analyzes election results across multiple constituencies, calculate
 ## ⚙️ How to Run the Program
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/election-analysis.git
-   cd election-analysis
+   git clone https://github.com/your-repo/election-analysis1.git
+   cd election-analysis1
    ```
 2. **Run the script:**
    ```bash
-   python election_analysis.py
+   python Election.py
    ```
 
 ---
